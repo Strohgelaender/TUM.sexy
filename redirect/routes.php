@@ -545,7 +545,7 @@ class Route {
         ],
         'sp'               => [
             'description' => 'Studienplan B.Sc. Informatik',
-            'target'      => 'https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/informatik/studienplan/studienbeginn-ab-ws-201819/',
+            'target'      => 'https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/informatik/studienplan/studienbeginn-ab-wise-202122/',
         ],
         'springer'         => [
             'description' => 'Springer Link Login',
@@ -622,7 +622,7 @@ class Route {
         ],
         'wi-sp'            => [
             'description' => 'Studienplan B.Sc. Wirtschaftsinformatik',
-            'target'      => 'https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/wirtschaftsinformatik/studienplan/studienbeginn-ab-ws-20182019/',
+            'target'      => 'https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/wirtschaftsinformatik/studienplan/studienbeginn-ab-ws-202122/',
         ],
         'z'            => [
             'description' => 'Zulip',
